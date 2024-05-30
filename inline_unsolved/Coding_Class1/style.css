@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+a{
+   color:blue;
+   background-color: yellow; 
+   font-size: 100px;
+   font-style: italic;
+}
+
+p {
+    background-color: greenyellow; 
+    font-size: 100px;
+    font-weight: 700;
+    width: fit-content;
+
+}
+
+h1 {
+    background-color: greenyellow; 
+    font-size: 200px;
+    font-weight: 100;
+    width: fit-content;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color:white;
+    outline-style: solid;
+    outline-color: #666666;
+}
+
+.mycolor{
+    font-size: 80px;
+}
